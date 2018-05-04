@@ -15,7 +15,7 @@ he/she must leave the game board.
 
 A square cannot hold more than one player at a time.
 
-/lemipc PATH TEAM_NUMBER
+./lemipc PATH TEAM_NUMBER
 -------------------------
 
 
